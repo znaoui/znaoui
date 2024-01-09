@@ -1,3 +1,10 @@
 ### Hi there 👋
+I'm Zakaria, a 26 years web developer from France.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=znaoui.znaoui)
+## Skills
+- 👨‍💻 C, C++, PHP, HTML, CSS etc...
+- ⚙️ React, NestJS
+- 💽 MySQL, SQL
+
+## Contact
+- [@zaktarus](./) on Discord
