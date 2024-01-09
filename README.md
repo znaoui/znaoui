@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Zakaria, a 26 years web developer from France.
+I'm currently studying in <a alt="42Born2Code" href="https://github.com/42School">42School</a>.  
 
 <p align=left>
   <div align=left>
