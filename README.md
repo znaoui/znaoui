@@ -6,16 +6,7 @@ I'm Zakaria, a 26 years web developer from France.
   </div>
 </p>
 
-## Skills
-- 👨‍💻 C, C++, PHP, HTML, CSS etc...
-- ⚙️ React, NestJS
-- 💽 MySQL, SQL
-
-## Contact
-- [@Zaktarus](./) on Discord
-
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
-
+## Skills 🛠️
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -38,3 +29,6 @@ I'm Zakaria, a 26 years web developer from France.
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+## Contact
+- [@Zaktarus](./) on Discord
