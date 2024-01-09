@@ -37,4 +37,5 @@ I'm Zakaria, a 26 years web developer from France.
       -->
   </p>
 ## Contact
-- [@Zaktarus](./) <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+- [@Zaktarus](./) on GitHub 
+<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
