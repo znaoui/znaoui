@@ -1,10 +1,5 @@
 ### Hi there 👋
 I'm Zakaria, a 26 years web developer from France.
-
-## Skills
-- 👨‍💻 C, C++, PHP, HTML, CSS etc...
-- ⚙️ React, NestJS
-- 💽 MySQL, SQL
 <p align=left>
   <div align=right>
     <a href="https://github.com/znaoui/github-readme-stats">
@@ -12,6 +7,11 @@ I'm Zakaria, a 26 years web developer from France.
     </a>
   </div>
 </p>
+
+## Skills
+- 👨‍💻 C, C++, PHP, HTML, CSS etc...
+- ⚙️ React, NestJS
+- 💽 MySQL, SQL
 
 ## Contact
 - [@Zaktarus](./) on Discord
