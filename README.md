@@ -13,3 +13,8 @@ I'm Zakaria, a 26 years web developer from France.
 
 ## Contact
 - [@Zaktarus](./) on Discord
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/znaoui/znaoui/master/example/skills.svg">
+  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+</p>
