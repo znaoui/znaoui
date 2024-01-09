@@ -7,4 +7,4 @@ I'm Zakaria, a 26 years web developer from France.
 - 💽 MySQL, SQL
 
 ## Contact
-- [@zaktarus](./) on Discord
+- [@Zaktarus](./) on Discord
