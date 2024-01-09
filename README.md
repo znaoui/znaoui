@@ -2,6 +2,9 @@
 I'm Zakaria, a 26 years web developer from France.
 
 ## Skills
+- 👨‍💻 C, C++, PHP, HTML, CSS etc...
+- ⚙️ React, NestJS
+- 💽 MySQL, SQL
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -12,9 +15,6 @@ I'm Zakaria, a 26 years web developer from France.
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
-- 👨‍💻 C, C++, PHP, HTML, CSS etc...
-- ⚙️ React, NestJS
-- 💽 MySQL, SQL
 
 ## Contact
 - [@Zaktarus](./) on Discord
