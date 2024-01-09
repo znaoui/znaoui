@@ -7,7 +7,7 @@ I'm Zakaria, a 26 years web developer from France.
   </div>
 </p>
 
-## My hobbies 💟 
+## My hobbies 💎
 - I love technology 🖥️ 
 - I'm passionate about video games 🎮
 - I spend my time observing nature ☘️
