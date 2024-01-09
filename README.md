@@ -23,19 +23,18 @@ I'm Zakaria, a 26 years web developer from France.
       <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
       <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
+      <!--
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"></a>
       <a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white"></a>
       <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
-      
-      <!--
       <a href="#"><img alt="" src=""></a>
       <a href="#"><img alt="" src=""></a>
       <a href="#"><img alt="" src=""></a>
       <a href="#"><img alt="" src=""></a>
-      <a href="#"><img alt="" src=""></a> -->
+      <a href="#"><img alt="" src=""></a> 
+      -->
   </p>
-
 ## Contact
 - [@Zaktarus](./) <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
